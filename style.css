@@ -36,3 +36,17 @@ h1{
     background-repeat: no-repeat;
     position:left;
 }
+.recipie{
+    text-align: center;
+}
+.recipie-title{
+    display: flex;
+    padding-left: 2%;}
+    .one{
+        box-shadow:10px 5px 5px black;
+    }
+    
+#recipie-photo{
+height: 200px;
+width 30%
+}
